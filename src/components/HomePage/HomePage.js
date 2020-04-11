@@ -8,6 +8,7 @@ const HomePage = () => {
     return (
         <div>
             <Banner></Banner>
+            
             <StoreFood></StoreFood>
         </div>
     );
